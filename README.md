@@ -1,4 +1,4 @@
-# KDE Connect - Android app
+# ESOS Controller - Android app
 
 ESOS COntroller is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
 
