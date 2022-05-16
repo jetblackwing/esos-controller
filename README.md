@@ -1,6 +1,6 @@
 # KDE Connect - Android app
 
-KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
+ESOS COntroller is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
 
 ## (Some) Features
 - **Shared clipboard**: copy and paste between your phone and your computer (or any other device).
@@ -13,7 +13,7 @@ All this without wires, over the already existing WiFi network, and using TLS en
 
 ## About this app
 
-This is a native Android port of the KDE Connect Qt app. You will find a more complete readme about KDE Connect [here](https://invent.kde.org/network/kdeconnect-kde/).
+This is a native Android port of the KDE Connect Qt app. You will find a more complete readme about ESOS CONNECT [here](https://invent.kde.org/network/kdeconnect-kde/).
 
 ## How to install this app
 
