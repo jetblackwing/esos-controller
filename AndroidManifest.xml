@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="org.kde.kdeconnect_tp"
     android:versionCode="11910"
-    android:versionName="1.19.1">
+    android:versionName="1.0 alpha (release candidate)">
 
     <supports-screens
         android:anyDensity="true"
@@ -50,7 +50,7 @@
     <application
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:label="KDE Connect"
+        android:label="ESOS Controller"
         android:supportsRtl="true"
         android:allowBackup="false"
         android:networkSecurityConfig="@xml/network_security_config"
@@ -93,7 +93,7 @@
 
         <activity
             android:name="org.kde.kdeconnect.UserInterface.MainActivity"
-            android:label="KDE Connect"
+            android:label="ESOS Controller"
             android:theme="@style/KdeConnectTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -119,7 +119,7 @@
         </activity>
         <activity
             android:name="org.kde.kdeconnect.Plugins.SharePlugin.SendFileActivity"
-            android:label="KDE Connect"
+            android:label="ESOS Controller"
             android:parentActivityName="org.kde.kdeconnect.UserInterface.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

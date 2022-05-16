@@ -31,7 +31,7 @@
             android:singleLine="true"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textSize="17sp"
-            tools:text="Konqi Konqueror" />
+            tools:text="Amal J Krishnan" />
 
         <TextView
             android:id="@+id/about_person_list_item_entry_task"
@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:visibility="gone"
-            tools:text="Developer"
+            tools:text="Developer - Project Manager"
             tools:visibility="visible" />
     </LinearLayout>
 
